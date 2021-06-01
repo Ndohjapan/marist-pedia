@@ -3965,4 +3965,17 @@ a > code {
 }
 
 
+@media (max-width: 820px){
+  .more{
+    display: block;
+  }
+  .side-profile{
+    margin: auto;
+  }
+  .text-info{
+    margin: 1rem auto 0;
+  }
+}
+
+
 
